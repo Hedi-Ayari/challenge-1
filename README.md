@@ -37,7 +37,7 @@ A full-stack invoice management application built with React, TypeScript, NestJS
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd invoice-management-system
+cd challenge-1
 ```
 
 2. **Start the database**
